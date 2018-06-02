@@ -1,2 +1,2 @@
-# dyinglight_keyscrept
-For Dying Light Keyboard script
+# Dying Light Keyborad Srcipt
+Welcome for using this python script.
